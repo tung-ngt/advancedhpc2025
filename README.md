@@ -1,5 +1,5 @@
 USTH ICT Advanced HPC 2025
 =================================
 
-* Student name
-* Student id here if you're Dat
+* Nguyen Thanh Tung
+* Student ID: 2440047
